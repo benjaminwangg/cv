@@ -1,5 +1,5 @@
 
-*Harmful Brain Activity Classification with KerasCV*
+***Harmful Brain Activity Classification with KerasCV***
 Objective
 The aim of this project is to classify harmful brain activity patterns in critically ill patients using EEG data. By leveraging the power of KerasCV and EfficientNetV2, this notebook guides through the process of training a deep learning model on spectrogram images of EEG data to identify various types of brain activity, including seizures.
 
